@@ -6,7 +6,7 @@
 </div>
 <style>
 /* CSS: 부모에게 flex 지시 */
-.container {
+#container {
   display: flex;
   justify-content: center;
   gap: 12px;

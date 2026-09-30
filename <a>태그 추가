@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>내 첫 웹페이지</title>
+  </head>
+  <body>
+    <h1>안녕하세요!</h1>
+    <div id="header">페이지 상단입니다.</div>
+    <p class="intro">소개 문단입니다.</p>
+
+    <p>참고 사이트: <a href="https://www.google.com">구글로 가기</a></p>
+    <p>새 탭으로 열기: <a href="https://github.com" target="_blank">깃허브</a></p>
+    <p><a href="#header">페이지 맨 위로</a></p>
+  </body>
+</html>
